@@ -1,0 +1,12 @@
+C:\Users\329197-23\Desktop\Checkers-master\bin\Debug\Checkers.exe.config
+C:\Users\329197-23\Desktop\Checkers-master\bin\Debug\Checkers.exe
+C:\Users\329197-23\Desktop\Checkers-master\bin\Debug\Checkers.pdb
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.CheckersForm.resources
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.CreateNetGame.resources
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.SelectNetEnemy.resources
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.exe
+C:\Users\329197-23\Desktop\Checkers-master\obj\Debug\Checkers.pdb
