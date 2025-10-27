@@ -12,9 +12,3 @@
 - `Checkers/Core/` - основные классы игры
 - `Checkers/Net/` - сетевое взаимодействие
 - Формы Windows Forms для интерфейса
-
-### Технологии
-- C# .NET
-- Windows Forms
-- WCF для P2P
-- Git для контроля версий
